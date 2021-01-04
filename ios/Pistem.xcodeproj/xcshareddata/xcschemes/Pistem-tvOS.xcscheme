@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "pistemrn-tvOS.app"
-               BlueprintName = "pistemrn-tvOS"
-               ReferencedContainer = "container:pistemrn.xcodeproj">
+               BuildableName = "Pistem-tvOS.app"
+               BlueprintName = "Pistem-tvOS"
+               ReferencedContainer = "container:Pistem.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "pistemrn-tvOSTests.xctest"
-               BlueprintName = "pistemrn-tvOSTests"
-               ReferencedContainer = "container:pistemrn.xcodeproj">
+               BuildableName = "Pistem-tvOSTests.xctest"
+               BlueprintName = "Pistem-tvOSTests"
+               ReferencedContainer = "container:Pistem.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "pistemrn-tvOS.app"
-            BlueprintName = "pistemrn-tvOS"
-            ReferencedContainer = "container:pistemrn.xcodeproj">
+            BuildableName = "Pistem-tvOS.app"
+            BlueprintName = "Pistem-tvOS"
+            ReferencedContainer = "container:Pistem.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "pistemrn-tvOS.app"
-            BlueprintName = "pistemrn-tvOS"
-            ReferencedContainer = "container:pistemrn.xcodeproj">
+            BuildableName = "Pistem-tvOS.app"
+            BlueprintName = "Pistem-tvOS"
+            ReferencedContainer = "container:Pistem.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
